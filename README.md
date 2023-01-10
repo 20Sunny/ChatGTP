@@ -1,1 +1,2 @@
 # ChatGTP
+## steps added soon . . .
